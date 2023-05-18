@@ -27,3 +27,11 @@ sail up -d
 ```
 sail test
 ```
+
+### comandos úteis
+
+sail bin phpmd app ansi cleancode
+
+sail bin phpstan analyse
+
+sail pint
